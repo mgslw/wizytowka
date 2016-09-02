@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#ffffff</color>
+    <color name="colorAccent">#1b2ca6</color>
+    <color name="colorTła">#fdd7d5c6</color>
+    <color name="colorImie">#490317</color>
+
+</resources>
